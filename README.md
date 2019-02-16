@@ -18,7 +18,7 @@ aqt.clayout.CardLayout.redraw. Those methodes are replaced by new
 method and does not use the previous method anymore.
 
 ## Pull request
-This is pull request number ### on anki.
+This is pull request number (280)[https://github.com/dae/anki/pull/280] on anki.
 
 ## Version 2.0
 None
