@@ -1,0 +1,3 @@
+When you open the note editor, {{Deck}} is replaced by a deck you recently used, and not at all by the correct deck name. This add-on almost correct this error.
+
+for more information, see https://github.com/Arthur-Milchior/anki-correct-deck-name-in-note-type-editor
