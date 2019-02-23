@@ -1,4 +1,7 @@
 # Correct add-on name
+This add-on is integrated in Anki 2.1.9. you thus won't need it unless
+your anki is out of date. Hence it's not on ankiweb anymore.
+
 ## Rationale
 When you open the note editor, {{Deck}} is replaced by a deck you
 recently used, and not at all by the correct deck name. This add-on
@@ -7,6 +10,12 @@ almost correct this error.
 The only case which is not corrected yet is when you change the «deck
 override» value of a deck. You must close and reopen the card note in
 order to see the correct value.
+
+## Warning
+This add-on is currently incompatible with Add-On
+additional_card_fields_during_review. The (pull
+request)[https://github.com/ijgnd/anki21__additional_card_fields_during_review/pull/1/commits/a74a093fd163e1105da7ca4998521f23808ea48a]
+is supposed to correct that.
 
 ## Usage
 Just install the add-on.
